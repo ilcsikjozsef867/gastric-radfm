@@ -1,0 +1,4 @@
+{
+  "required": ["patient_id", "site", "split", "arterial", "portal", "delayed", "clinical_json", "ct", "cn", "cm", "resectable", "neoadjuvant"],
+  "tasks": {"ct": 5, "cn": 3, "cm": 2, "resectable": 2, "neoadjuvant": 2}
+}

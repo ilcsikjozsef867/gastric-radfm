@@ -1,0 +1,5 @@
+Private gastric CECT cohort | restricted institutional access | license: institutional governance | URL: not publicly listed in manuscript
+AbdomenAtlas | auxiliary CT segmentation and ROI resource | license: CC BY-NC-SA stated in manuscript | URL: https://www.zongweiz.com/dataset
+AMOS | auxiliary abdominal multi-organ segmentation resource | license: CC BY 4.0 stated in manuscript | URL: https://amos22.grand-challenge.org/
+TotalSegmentator | auxiliary segmentation resource | license: CC BY 4.0 stated in manuscript | URL: https://doi.org/10.5281/zenodo.6802613
+Merlin | frozen CT foundation model weights | license: repository terms | URL: https://github.com/StanfordMIMI/Merlin
